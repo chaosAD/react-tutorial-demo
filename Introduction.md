@@ -1,4 +1,4 @@
-# React in a Nutshell: Making a Translator App
+# React in a Nutshell 🌰
 
 Bonjour! Today we'll be creating a translator app using [React](https://reactjs.org/), a popular JavaScript framework. You've likely heard a lot about React through the ether, however, don't be intimidated. JavaScript [notorious](https://www.quora.com/What-is-JavaScript-fatigue) for making simple things difficult. In reality, it's really easy to get up and runnning with React. Allons-y!
 
@@ -12,7 +12,7 @@ Bonjour! Today we'll be creating a translator app using [React](https://reactjs.
 - Install [Node.js](https://nodejs.org/en/download/) on your machine.
 - Open your terminal and enter `npm install ---global create-react-app`.
 
-#### Advanced Understanding
+### What did I just do?
 
 - [Node.js](https://nodejs.org/en/) allows you to run JavaScript on your computer. JavaScript is usually run in a browser.
 - [npm](https://www.npmjs.com/about) is a huge library of downloadable JavaScript code. Developers use it to share code publicly.
@@ -44,7 +44,7 @@ Change some of the text returned by the `render()` method in <u>src/App.js</u>. 
 
 This happen because the  `create-react-app   ` setup includes a nifty feature called "hot reloading", which automatically switches out old-code for new-code when you save your files. Hot reloading helps you visualize new changes to your code as you make them.
 
-### File Structure 📁
+## File Structure 📁
 
 ![img](folder-structure.png)
 
@@ -57,7 +57,7 @@ You won't be using <u>src/App.test.js</u> or any of the other supporting files i
 
 ![](root.png)
 
-### Homework
+## Next Steps 👣
 
 - Change more of the HTML-like syntax returned in the <u>src/App.js</u> component.
 - Try adding rich HTML elements such as input boxes and images. (P.S. put images in the <u>public/</u> folder to access them using the "src" attribute on the `Image` element.)
