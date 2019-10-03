@@ -1,10 +1,10 @@
-# React Translation App Tutorial
+# React in a Nutshell 🌰
 
-This is a tutorial for making a translation app in React. It goes through most of the important basics of React, by the end of which  at the end a small React application
+This is a tutorial for gettings started with React. It goes through most of the important basics of React, including
 
-#### Todo
-
-- Finish Week 3
-- Review for clarity/Cut it down, etc.
-- Share with people for feedback
-- Add examples for each week
+- Basic Components
+- State
+- User Interaction
+- Styling
+- Networking and AJAX Requests
+- Nested Components

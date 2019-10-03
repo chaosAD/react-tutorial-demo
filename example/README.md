@@ -1,2 +1,0 @@
-- Run `npm install` first to install dependencies from *npm*. 
-- Run `npm start` to serve the project locally.
